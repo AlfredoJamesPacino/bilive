@@ -207,6 +207,8 @@ logs # 日志文件夹
 
 ## 特别感谢
 
+本项目由VTEXS https://www.vtexs.com 的【开源项目免费VPS计划】提供算力支持
+感谢VTEXS对开源社区的支持
 - [biliup/biliup-rs](https://github.com/biliup/biliup-rs)
 - [hihkm/DanmakuFactory](https://github.com/hihkm/DanmakuFactory)
 - [acgnhiki/blrec](https://github.com/acgnhiki/blrec)
